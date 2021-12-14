@@ -30,6 +30,7 @@ int main(){
         bn = b1 + b2;
         b1 = b2;
         b2 = bn;
+	    
          // Mencetak deret bilangan fibonacci berikutnya.
          
         cout << bn << " ";
