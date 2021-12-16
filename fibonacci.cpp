@@ -6,12 +6,14 @@ int main(){
 
     cout << "Masukan Batas Deret Bilangan Fibonacci :  ";
     cin >> n;
+	
 	cout<<endl;
 	
     cout << "		Hasil Deret Fibonacci  ";
     cout <<endl;
     cout << "------------------------------------------------";
 	cout <<endl;
+	
     for (int i = 1; i <= n; i++) {
     	
         // Mencetak dua deret fibonacci pertama.
