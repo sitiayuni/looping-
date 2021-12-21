@@ -12,7 +12,7 @@ int main(){
     cout << "		Hasil Deret Fibonacci  ";
     cout <<endl;
     cout << "------------------------------------------------";
-	cout <<endl;
+	cout <<endl<<endl;
 	
     for (int i = 1; i <= n; i++) {
     	
