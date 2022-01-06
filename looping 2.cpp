@@ -9,6 +9,7 @@ int main(){
 	   NPM : 2117051068
 	   */
 
+
 //deklarasi variabel
 	
 	int x, y;
@@ -21,7 +22,8 @@ int main(){
 		for(int a=1; a<y ; a++){
 			cout<< " # ";
 		}
-		cout <<" # "<< endl;
+		
+		cout << " # " << endl;
 	}
 	
    return 0;
